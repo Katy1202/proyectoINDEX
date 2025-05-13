@@ -22,9 +22,9 @@
 </BODY>
 
  <ul>
-          <a href="https://katy1202.github.io/pagina1/">pagina 1</a></li>
-          <a href="https://katy1202.github.io/pagina2/">pagina 2</a></li>
-          <a href="https://katy1202.github.io/pagina3/">pagina 3</a></li>
-          <a href="https://katy1202.github.io/pagina4/">pagina 4</a></li> 
-          <a href="https://katy1202.github.io/pagina5/">pagina 5</a></li>
+          <a href="https://katy1202.github.io/pagina1/">pagina 1</a>
+          <a href="https://katy1202.github.io/pagina2/">pagina 2</a>
+          <a href="https://katy1202.github.io/pagina3/">pagina 3</a>
+          <a href="https://katy1202.github.io/pagina4/">pagina 4</a> 
+          <a href="https://katy1202.github.io/pagina5/">pagina 5</a>
 
