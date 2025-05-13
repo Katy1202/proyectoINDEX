@@ -24,7 +24,7 @@
 </HTML>
  <ul>
           <a href="https://katy1202.github.io/pagina1/">pagina 1</a></li>
-          <a href="">pagina 2</a></li>
+          <a href="https://katy1202.github.io/pagina2/">pagina 2</a></li>
           <a href="">pagina 3</a></li>
           <a href="">pagina 4</a></li> 
           <a href="">pagina 5</a></li>
