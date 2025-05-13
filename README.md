@@ -13,15 +13,14 @@
 <P>PROFR. RAMIRO REYNA TORRES 
 <P>602
 <P>
-</BODY>
-</HTML>
-</HEAD>
+
+
 <BODY>
-<img src="cebcedrallogo.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
 
 
 </BODY>
-</HTML>
+
  <ul>
           <a href="https://katy1202.github.io/pagina1/">pagina 1</a></li>
           <a href="https://katy1202.github.io/pagina2/">pagina 2</a></li>
